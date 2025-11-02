@@ -1,14 +1,14 @@
 ---
 title: 【Vue Fes Japan 2025】はじめて技術カンファレンスに参加してみた話
 tags:
-  - 学生
   - Vue.js
-  - vuefes
   - フロントエンド
   - カンファレンス・勉強会メモ
+  - 学生
+  - vuefes
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-11-02T22:07:39+09:00'
+id: 8be62553bbf96d10b10b
 organization_url_name: null
 slide: false
 ignorePublish: false
