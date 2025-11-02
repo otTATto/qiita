@@ -6,7 +6,6 @@ tags:
   - vuefes
   - フロントエンド
   - カンファレンス・勉強会メモ
-  - 体験記
 private: false
 updated_at: ''
 id: null
